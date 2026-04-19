@@ -3,5 +3,5 @@ window.ringLinks = [
   "https://axelobrien.neocities.org/",
   "https://liampas.ca",
   "https://endethu.neocities.org/",
-  "https://highveld.de/webring/",
+  "https://highveld.de/webring/"
 ];
